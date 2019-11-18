@@ -1,0 +1,5 @@
+/home/2inl2/abenhami/Bureau/TP_DEVOPS/devops-upem-ws2/src/main/java/fr/upem/master2/devops/apprentis/devopsupemws2/model/Personne.java
+/home/2inl2/abenhami/Bureau/TP_DEVOPS/devops-upem-ws2/src/main/java/fr/upem/master2/devops/apprentis/devopsupemws2/DevopsUpemWs2Application.java
+/home/2inl2/abenhami/Bureau/TP_DEVOPS/devops-upem-ws2/src/main/java/fr/upem/master2/devops/apprentis/devopsupemws2/repository/PersonneRepository.java
+/home/2inl2/abenhami/Bureau/TP_DEVOPS/devops-upem-ws2/src/main/java/fr/upem/master2/devops/apprentis/devopsupemws2/resource/PersonneResource.java
+/home/2inl2/abenhami/Bureau/TP_DEVOPS/devops-upem-ws2/src/main/java/fr/upem/master2/devops/apprentis/devopsupemws2/service/PersonneService.java

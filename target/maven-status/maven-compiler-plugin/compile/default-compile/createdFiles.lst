@@ -1,0 +1,5 @@
+fr/upem/master2/devops/apprentis/devopsupemws2/model/Personne.class
+fr/upem/master2/devops/apprentis/devopsupemws2/resource/PersonneResource.class
+fr/upem/master2/devops/apprentis/devopsupemws2/DevopsUpemWs2Application.class
+fr/upem/master2/devops/apprentis/devopsupemws2/repository/PersonneRepository.class
+fr/upem/master2/devops/apprentis/devopsupemws2/service/PersonneService.class
